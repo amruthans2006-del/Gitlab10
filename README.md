@@ -1,2 +1,4 @@
 # Gitlab10
-this is the demonstrative lab
+this is the demonstrative cloning
+this is mygit demo file
+
